@@ -30,10 +30,9 @@ Top 10 Locations by Projects
 # 📥 Dashboard Files (Large Size)
 
 Due to GitHub file size limitations, large dashboard files are hosted externally:
-
-
-
-🚀 Project Outcome
-
-This project demonstrates end-to-end data analysis workflow, KPI design, data modeling, and multi-tool dashboard development for business intelligence reporting
+🔗 **Google Drive Link:**  
 https://drive.google.com/drive/folders/1_ULpp3tGFXTfgTBOkipCsX_uzsRPlhcp?usp=sharing
+
+# 🚀 Project Outcome
+This project demonstrates end-to-end data analysis workflow, KPI design, data modeling, and multi-tool dashboard development for business intelligence reporting
+
